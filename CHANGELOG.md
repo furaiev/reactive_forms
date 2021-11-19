@@ -1,3 +1,8 @@
+# 10.4.2
+
+## Enhances
+- Added `InheritedStreamer` to package exports.
+
 # 10.4.1
 
 ## Enhances
